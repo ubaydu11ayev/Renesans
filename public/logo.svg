@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="renessansGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4361EE" />
+      <stop offset="100%" stop-color="#3A0CA3" />
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.15" />
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="84" height="84" rx="24" fill="url(#renessansGrad)" filter="url(#softShadow)" />
+  <path d="M35 30 H52 C61 30 67 35 67 42 C67 49 61 54 52 54 H45 V70 H35 V30 Z M45 39 V46 H51 C54.5 46 57 44.5 57 42.5 C57 40.5 54.5 39 51 39 H45 Z" fill="#FFFFFF" />
+  <path d="M51 54 L66 70 H54 L42 56 Z" fill="#A5B4FC" />
+  <circle cx="68" cy="28" r="4.5" fill="#FBBF24" />
+</svg>
+
