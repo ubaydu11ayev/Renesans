@@ -44,3 +44,4 @@ Brauzerda oching: **http://localhost:5173**
 ## 📄 Yuridik va Moliyaviy Hujjatlar
 Barcha to‘lov cheklari va rasmiy kvitansiyalar “Sardoba language stars” MCHJ rekvizitlari bilan chop etishga tayyor holatda shakllanadi.
 # Renesans
+# Renesans
